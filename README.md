@@ -8,7 +8,7 @@ Exploring advanced Vue.js concepts.
 - [ ] Routing
 - [ ] State Management
 - [ ] Testing
-- [ ] Server-side Rendering
+- [ ] Server-side Rendering (SSR)
 
 ## Practice Scenarios
 
@@ -18,4 +18,5 @@ Exploring advanced Vue.js concepts.
 
 A list of helpful resources for scaling up with Vue.js
 
-1. [Vue.js Docs](https://vuejs.org/guide/introduction.html)
+1. [Vue Docs](https://vuejs.org/guide/introduction.html)
+1. [Vue - What is SSR](https://vuejs.org/guide/scaling-up/ssr.html#what-is-ssr)
